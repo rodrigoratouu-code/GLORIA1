@@ -464,11 +464,7 @@
             }
         }
         
-        .hero-image img {
-            width: 100%;
-            border-radius: var(--radius-lg);
-            box-shadow: var(--shadow-xl);
-        }
+        .hero-image img { background-color: #f5f5f5; /* color que tú quieras */ padding: 2rem; /* opcional, para que respire */ border-radius: var(--radius-lg); /* si quieres que el fondo también tenga bordes redondeados */ }
         
         .floating-card {
             position: absolute;
