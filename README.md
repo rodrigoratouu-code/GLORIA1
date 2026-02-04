@@ -1389,7 +1389,7 @@
     <header class="header" id="header">
         <nav class="nav-container">
             <a href="#inicio" class="logo">
-                <img src="gloria-logo.webp" alt="Gloria - Clínica Dental">
+                <img src="gloria-logo.svg" alt="Gloria - Clínica Dental">
                 <p class="titulo-clinica">clinica dental</p>
             </a>
             
